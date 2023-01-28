@@ -1,0 +1,1 @@
+I will manually upload the text file directly to my GitHub repository by using the Add File button, pressing the Commit changes button, and then turning in the link to Canvas. 
